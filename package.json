@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cucumber-js -f json:./reports/cucumber_report.json",
+    "test": "cucumber-js -f json:./reports/cucumber_report.json --publish",
     "generate:report": "node ./reports/report.js"
   },
   "author": "",
