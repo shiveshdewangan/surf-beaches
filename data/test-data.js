@@ -1,4 +1,4 @@
-const data = {
+const TOP_TEN_BEACHES = {
   1655: "Manly Beach",
   2096: "Freshwater Beach",
   2026: "Bondi Beach",
@@ -11,4 +11,4 @@ const data = {
   2536: "Long Reef"
 };
 
-module.exports = data;
+module.exports = TOP_TEN_BEACHES;

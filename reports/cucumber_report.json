@@ -15,11 +15,11 @@
             "line": 6,
             "name": "I like to surf in any two beaches out of top ten in Sydney",
             "match": {
-              "location": "features/support/steps.js:34"
+              "location": "features/support/steps.js:40"
             },
             "result": {
               "status": "passed",
-              "duration": 3000000
+              "duration": 2000000
             }
           },
           {
@@ -28,11 +28,11 @@
             "line": 7,
             "name": "I look up the the weather forecast for the next sixteen days using \"1655\"",
             "match": {
-              "location": "features/support/steps.js:40"
+              "location": "features/support/steps.js:46"
             },
             "result": {
               "status": "passed",
-              "duration": 1075000000
+              "duration": 1134000000
             }
           },
           {
@@ -41,11 +41,11 @@
             "line": 8,
             "name": "I only like to surf on any 2 days specifically Thursday & Friday in next 16 Days",
             "match": {
-              "location": "features/support/steps.js:49"
+              "location": "features/support/steps.js:61"
             },
             "result": {
               "status": "passed",
-              "duration": 3000000
+              "duration": 1000000
             }
           },
           {
@@ -54,11 +54,11 @@
             "line": 9,
             "name": "I check to if see the temperature is between 20℃ and 30℃",
             "match": {
-              "location": "features/support/steps.js:58"
+              "location": "features/support/steps.js:71"
             },
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             }
           },
           {
@@ -67,7 +67,7 @@
             "line": 10,
             "name": "I check to see if UV index is less than 3",
             "match": {
-              "location": "features/support/steps.js:64"
+              "location": "features/support/steps.js:78"
             },
             "result": {
               "status": "passed",
@@ -80,7 +80,7 @@
             "line": 11,
             "name": "I pick two spots based on suitable weather forecast for the day using \"Manly Beach\"",
             "match": {
-              "location": "features/support/steps.js:68"
+              "location": "features/support/steps.js:83"
             },
             "result": {
               "status": "passed",
@@ -104,7 +104,7 @@
             "line": 6,
             "name": "I like to surf in any two beaches out of top ten in Sydney",
             "match": {
-              "location": "features/support/steps.js:34"
+              "location": "features/support/steps.js:40"
             },
             "result": {
               "status": "passed",
@@ -117,11 +117,11 @@
             "line": 7,
             "name": "I look up the the weather forecast for the next sixteen days using \"2096\"",
             "match": {
-              "location": "features/support/steps.js:40"
+              "location": "features/support/steps.js:46"
             },
             "result": {
               "status": "passed",
-              "duration": 1020000000
+              "duration": 1216000000
             }
           },
           {
@@ -130,7 +130,7 @@
             "line": 8,
             "name": "I only like to surf on any 2 days specifically Thursday & Friday in next 16 Days",
             "match": {
-              "location": "features/support/steps.js:49"
+              "location": "features/support/steps.js:61"
             },
             "result": {
               "status": "passed",
@@ -143,11 +143,11 @@
             "line": 9,
             "name": "I check to if see the temperature is between 20℃ and 30℃",
             "match": {
-              "location": "features/support/steps.js:58"
+              "location": "features/support/steps.js:71"
             },
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             }
           },
           {
@@ -156,7 +156,7 @@
             "line": 10,
             "name": "I check to see if UV index is less than 3",
             "match": {
-              "location": "features/support/steps.js:64"
+              "location": "features/support/steps.js:78"
             },
             "result": {
               "status": "passed",
@@ -169,7 +169,7 @@
             "line": 11,
             "name": "I pick two spots based on suitable weather forecast for the day using \"Freshwater Beach\"",
             "match": {
-              "location": "features/support/steps.js:68"
+              "location": "features/support/steps.js:83"
             },
             "result": {
               "status": "passed",
@@ -193,11 +193,11 @@
             "line": 6,
             "name": "I like to surf in any two beaches out of top ten in Sydney",
             "match": {
-              "location": "features/support/steps.js:34"
+              "location": "features/support/steps.js:40"
             },
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             }
           },
           {
@@ -206,11 +206,11 @@
             "line": 7,
             "name": "I look up the the weather forecast for the next sixteen days using \"2026\"",
             "match": {
-              "location": "features/support/steps.js:40"
+              "location": "features/support/steps.js:46"
             },
             "result": {
               "status": "passed",
-              "duration": 1196000000
+              "duration": 1226000000
             }
           },
           {
@@ -219,11 +219,11 @@
             "line": 8,
             "name": "I only like to surf on any 2 days specifically Thursday & Friday in next 16 Days",
             "match": {
-              "location": "features/support/steps.js:49"
+              "location": "features/support/steps.js:61"
             },
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             }
           },
           {
@@ -232,7 +232,7 @@
             "line": 9,
             "name": "I check to if see the temperature is between 20℃ and 30℃",
             "match": {
-              "location": "features/support/steps.js:58"
+              "location": "features/support/steps.js:71"
             },
             "result": {
               "status": "passed",
@@ -245,11 +245,11 @@
             "line": 10,
             "name": "I check to see if UV index is less than 3",
             "match": {
-              "location": "features/support/steps.js:64"
+              "location": "features/support/steps.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             }
           },
           {
@@ -258,7 +258,7 @@
             "line": 11,
             "name": "I pick two spots based on suitable weather forecast for the day using \"Bondi Beach\"",
             "match": {
-              "location": "features/support/steps.js:68"
+              "location": "features/support/steps.js:83"
             },
             "result": {
               "status": "passed",
@@ -282,11 +282,11 @@
             "line": 6,
             "name": "I like to surf in any two beaches out of top ten in Sydney",
             "match": {
-              "location": "features/support/steps.js:34"
+              "location": "features/support/steps.js:40"
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             }
           },
           {
@@ -295,11 +295,11 @@
             "line": 7,
             "name": "I look up the the weather forecast for the next sixteen days using \"2035\"",
             "match": {
-              "location": "features/support/steps.js:40"
+              "location": "features/support/steps.js:46"
             },
             "result": {
               "status": "passed",
-              "duration": 1492000000
+              "duration": 1224000000
             }
           },
           {
@@ -308,7 +308,7 @@
             "line": 8,
             "name": "I only like to surf on any 2 days specifically Thursday & Friday in next 16 Days",
             "match": {
-              "location": "features/support/steps.js:49"
+              "location": "features/support/steps.js:61"
             },
             "result": {
               "status": "passed",
@@ -321,7 +321,7 @@
             "line": 9,
             "name": "I check to if see the temperature is between 20℃ and 30℃",
             "match": {
-              "location": "features/support/steps.js:58"
+              "location": "features/support/steps.js:71"
             },
             "result": {
               "status": "passed",
@@ -334,11 +334,11 @@
             "line": 10,
             "name": "I check to see if UV index is less than 3",
             "match": {
-              "location": "features/support/steps.js:64"
+              "location": "features/support/steps.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             }
           },
           {
@@ -347,11 +347,11 @@
             "line": 11,
             "name": "I pick two spots based on suitable weather forecast for the day using \"Maroubra Beach\"",
             "match": {
-              "location": "features/support/steps.js:68"
+              "location": "features/support/steps.js:83"
             },
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             }
           }
         ],
@@ -371,11 +371,11 @@
             "line": 6,
             "name": "I like to surf in any two beaches out of top ten in Sydney",
             "match": {
-              "location": "features/support/steps.js:34"
+              "location": "features/support/steps.js:40"
             },
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             }
           },
           {
@@ -384,11 +384,11 @@
             "line": 7,
             "name": "I look up the the weather forecast for the next sixteen days using \"2107\"",
             "match": {
-              "location": "features/support/steps.js:40"
+              "location": "features/support/steps.js:46"
             },
             "result": {
               "status": "passed",
-              "duration": 1147000000
+              "duration": 1226000000
             }
           },
           {
@@ -397,11 +397,11 @@
             "line": 8,
             "name": "I only like to surf on any 2 days specifically Thursday & Friday in next 16 Days",
             "match": {
-              "location": "features/support/steps.js:49"
+              "location": "features/support/steps.js:61"
             },
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             }
           },
           {
@@ -410,11 +410,11 @@
             "line": 9,
             "name": "I check to if see the temperature is between 20℃ and 30℃",
             "match": {
-              "location": "features/support/steps.js:58"
+              "location": "features/support/steps.js:71"
             },
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             }
           },
           {
@@ -423,7 +423,7 @@
             "line": 10,
             "name": "I check to see if UV index is less than 3",
             "match": {
-              "location": "features/support/steps.js:64"
+              "location": "features/support/steps.js:78"
             },
             "result": {
               "status": "passed",
@@ -436,7 +436,7 @@
             "line": 11,
             "name": "I pick two spots based on suitable weather forecast for the day using \"Whale Beach\"",
             "match": {
-              "location": "features/support/steps.js:68"
+              "location": "features/support/steps.js:83"
             },
             "result": {
               "status": "passed",
@@ -460,7 +460,7 @@
             "line": 6,
             "name": "I like to surf in any two beaches out of top ten in Sydney",
             "match": {
-              "location": "features/support/steps.js:34"
+              "location": "features/support/steps.js:40"
             },
             "result": {
               "status": "passed",
@@ -473,11 +473,11 @@
             "line": 7,
             "name": "I look up the the weather forecast for the next sixteen days using \"2230\"",
             "match": {
-              "location": "features/support/steps.js:40"
+              "location": "features/support/steps.js:46"
             },
             "result": {
               "status": "passed",
-              "duration": 1091000000
+              "duration": 1224000000
             }
           },
           {
@@ -486,7 +486,7 @@
             "line": 8,
             "name": "I only like to surf on any 2 days specifically Thursday & Friday in next 16 Days",
             "match": {
-              "location": "features/support/steps.js:49"
+              "location": "features/support/steps.js:61"
             },
             "result": {
               "status": "passed",
@@ -499,7 +499,7 @@
             "line": 9,
             "name": "I check to if see the temperature is between 20℃ and 30℃",
             "match": {
-              "location": "features/support/steps.js:58"
+              "location": "features/support/steps.js:71"
             },
             "result": {
               "status": "passed",
@@ -512,7 +512,7 @@
             "line": 10,
             "name": "I check to see if UV index is less than 3",
             "match": {
-              "location": "features/support/steps.js:64"
+              "location": "features/support/steps.js:78"
             },
             "result": {
               "status": "passed",
@@ -525,7 +525,7 @@
             "line": 11,
             "name": "I pick two spots based on suitable weather forecast for the day using \"Cronulla Beach\"",
             "match": {
-              "location": "features/support/steps.js:68"
+              "location": "features/support/steps.js:83"
             },
             "result": {
               "status": "passed",
@@ -549,11 +549,11 @@
             "line": 6,
             "name": "I like to surf in any two beaches out of top ten in Sydney",
             "match": {
-              "location": "features/support/steps.js:34"
+              "location": "features/support/steps.js:40"
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 2000000
             }
           },
           {
@@ -562,11 +562,11 @@
             "line": 7,
             "name": "I look up the the weather forecast for the next sixteen days using \"2232\"",
             "match": {
-              "location": "features/support/steps.js:40"
+              "location": "features/support/steps.js:46"
             },
             "result": {
               "status": "passed",
-              "duration": 1278000000
+              "duration": 1223000000
             }
           },
           {
@@ -575,7 +575,7 @@
             "line": 8,
             "name": "I only like to surf on any 2 days specifically Thursday & Friday in next 16 Days",
             "match": {
-              "location": "features/support/steps.js:49"
+              "location": "features/support/steps.js:61"
             },
             "result": {
               "status": "passed",
@@ -588,11 +588,11 @@
             "line": 9,
             "name": "I check to if see the temperature is between 20℃ and 30℃",
             "match": {
-              "location": "features/support/steps.js:58"
+              "location": "features/support/steps.js:71"
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             }
           },
           {
@@ -601,7 +601,7 @@
             "line": 10,
             "name": "I check to see if UV index is less than 3",
             "match": {
-              "location": "features/support/steps.js:64"
+              "location": "features/support/steps.js:78"
             },
             "result": {
               "status": "passed",
@@ -614,7 +614,7 @@
             "line": 11,
             "name": "I pick two spots based on suitable weather forecast for the day using \"Garie Beach\"",
             "match": {
-              "location": "features/support/steps.js:68"
+              "location": "features/support/steps.js:83"
             },
             "result": {
               "status": "passed",
@@ -638,7 +638,7 @@
             "line": 6,
             "name": "I like to surf in any two beaches out of top ten in Sydney",
             "match": {
-              "location": "features/support/steps.js:34"
+              "location": "features/support/steps.js:40"
             },
             "result": {
               "status": "passed",
@@ -651,11 +651,11 @@
             "line": 7,
             "name": "I look up the the weather forecast for the next sixteen days using \"2463\"",
             "match": {
-              "location": "features/support/steps.js:40"
+              "location": "features/support/steps.js:46"
             },
             "result": {
               "status": "passed",
-              "duration": 1262000000
+              "duration": 1225000000
             }
           },
           {
@@ -664,7 +664,7 @@
             "line": 8,
             "name": "I only like to surf on any 2 days specifically Thursday & Friday in next 16 Days",
             "match": {
-              "location": "features/support/steps.js:49"
+              "location": "features/support/steps.js:61"
             },
             "result": {
               "status": "passed",
@@ -677,7 +677,7 @@
             "line": 9,
             "name": "I check to if see the temperature is between 20℃ and 30℃",
             "match": {
-              "location": "features/support/steps.js:58"
+              "location": "features/support/steps.js:71"
             },
             "result": {
               "status": "passed",
@@ -690,7 +690,7 @@
             "line": 10,
             "name": "I check to see if UV index is less than 3",
             "match": {
-              "location": "features/support/steps.js:64"
+              "location": "features/support/steps.js:78"
             },
             "result": {
               "status": "passed",
@@ -703,7 +703,7 @@
             "line": 11,
             "name": "I pick two spots based on suitable weather forecast for the day using \"Shark Island Beach\"",
             "match": {
-              "location": "features/support/steps.js:68"
+              "location": "features/support/steps.js:83"
             },
             "result": {
               "status": "passed",
@@ -727,7 +727,7 @@
             "line": 6,
             "name": "I like to surf in any two beaches out of top ten in Sydney",
             "match": {
-              "location": "features/support/steps.js:34"
+              "location": "features/support/steps.js:40"
             },
             "result": {
               "status": "passed",
@@ -740,11 +740,11 @@
             "line": 7,
             "name": "I look up the the weather forecast for the next sixteen days using \"2108\"",
             "match": {
-              "location": "features/support/steps.js:40"
+              "location": "features/support/steps.js:46"
             },
             "result": {
               "status": "passed",
-              "duration": 1334000000
+              "duration": 1122000000
             }
           },
           {
@@ -753,7 +753,7 @@
             "line": 8,
             "name": "I only like to surf on any 2 days specifically Thursday & Friday in next 16 Days",
             "match": {
-              "location": "features/support/steps.js:49"
+              "location": "features/support/steps.js:61"
             },
             "result": {
               "status": "passed",
@@ -766,7 +766,7 @@
             "line": 9,
             "name": "I check to if see the temperature is between 20℃ and 30℃",
             "match": {
-              "location": "features/support/steps.js:58"
+              "location": "features/support/steps.js:71"
             },
             "result": {
               "status": "passed",
@@ -779,7 +779,7 @@
             "line": 10,
             "name": "I check to see if UV index is less than 3",
             "match": {
-              "location": "features/support/steps.js:64"
+              "location": "features/support/steps.js:78"
             },
             "result": {
               "status": "passed",
@@ -792,7 +792,7 @@
             "line": 11,
             "name": "I pick two spots based on suitable weather forecast for the day using \"Palm Beach\"",
             "match": {
-              "location": "features/support/steps.js:68"
+              "location": "features/support/steps.js:83"
             },
             "result": {
               "status": "passed",
@@ -816,7 +816,7 @@
             "line": 6,
             "name": "I like to surf in any two beaches out of top ten in Sydney",
             "match": {
-              "location": "features/support/steps.js:34"
+              "location": "features/support/steps.js:40"
             },
             "result": {
               "status": "passed",
@@ -829,11 +829,11 @@
             "line": 7,
             "name": "I look up the the weather forecast for the next sixteen days using \"2536\"",
             "match": {
-              "location": "features/support/steps.js:40"
+              "location": "features/support/steps.js:46"
             },
             "result": {
               "status": "passed",
-              "duration": 1048000000
+              "duration": 1226000000
             }
           },
           {
@@ -842,11 +842,11 @@
             "line": 8,
             "name": "I only like to surf on any 2 days specifically Thursday & Friday in next 16 Days",
             "match": {
-              "location": "features/support/steps.js:49"
+              "location": "features/support/steps.js:61"
             },
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             }
           },
           {
@@ -855,7 +855,7 @@
             "line": 9,
             "name": "I check to if see the temperature is between 20℃ and 30℃",
             "match": {
-              "location": "features/support/steps.js:58"
+              "location": "features/support/steps.js:71"
             },
             "result": {
               "status": "passed",
@@ -868,7 +868,7 @@
             "line": 10,
             "name": "I check to see if UV index is less than 3",
             "match": {
-              "location": "features/support/steps.js:64"
+              "location": "features/support/steps.js:78"
             },
             "result": {
               "status": "passed",
@@ -881,7 +881,7 @@
             "line": 11,
             "name": "I pick two spots based on suitable weather forecast for the day using \"Long Reef Beach\"",
             "match": {
-              "location": "features/support/steps.js:68"
+              "location": "features/support/steps.js:83"
             },
             "result": {
               "status": "passed",
