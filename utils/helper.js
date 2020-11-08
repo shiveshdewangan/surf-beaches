@@ -3,7 +3,8 @@ const expect = require("chai").expect;
 exports.getResponseBasedOnThursdayAndFriday = (data) =>
   data.filter(
     (d) =>
-      new Date(d.datetime).getDay() === 4 || new Date(d.datetime).getDay() === 5
+      new Date(d.valid_date).getDay() === 4 ||
+      new Date(d.valid_date).getDay() === 5
   );
 
 exports.getResponseBasedOnTemperature = (data) =>
@@ -15,8 +16,8 @@ exports.validateResponseBasedOnThursdayAndFriday = (data) => {
   data.forEach(
     (d) =>
       expect(
-        new Date(d.datetime).getDay() === 4 ||
-          new Date(d.datetime).getDay() === 5
+        new Date(d.valid_date).getDay() === 4 ||
+          new Date(d.valid_date).getDay() === 5
       ).to.be.true
   );
 };
