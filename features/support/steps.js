@@ -31,10 +31,18 @@ let finalResult = [];
 BeforeAll(async function() {});
 
 AfterAll(async function() {
-  await console.log(
-    "List of Beach for Surfing based on Temp and UV Index",
-    finalResult
-  );
+  const listOfBeaches = await finalResult;
+
+  if (listOfBeaches.length > 0) {
+    console.log(
+      "List of Beachs for Surfing based on Temp and UV Index",
+      listOfBeaches
+    );
+  } else {
+    console.log(
+      "Sorry, there's no beach for surfing as of now matching your criteria."
+    );
+  }
 });
 
 Given("I like to surf in any two beaches out of top ten in Sydney", () => {
